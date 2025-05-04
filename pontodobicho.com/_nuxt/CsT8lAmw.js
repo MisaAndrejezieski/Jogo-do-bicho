@@ -1,1 +1,0 @@
-import{_ as s}from"./a3x-3kU3.js";import{Q as t,$ as o,a0 as r}from"./DSZiQSDz.js";const c={},a={class:"w-full h-screen"};function n(e,l){return o(),t("div",a,[r(e.$slots,"default")])}const d=s(c,[["render",n]]);export{d as default};
