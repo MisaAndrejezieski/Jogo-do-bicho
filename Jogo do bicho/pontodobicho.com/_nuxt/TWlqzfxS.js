@@ -1,1 +1,0 @@
-var a=(_=>(_.SIGNUP="signup",_.LOGIN="login",_.INITIATE_CHECKOUT="initiate_checkout",_.PURCHASE="purchase",_.PAGE_VIEW="page_view",_.VIEW_CONTENT="view_content",_.RELEASE_GAME="release_game",_))(a||{});export{a as G};
