@@ -1,0 +1,1 @@
+import{G as a,k as o,n as r,H as n}from"./a3x-3kU3.js";import"./DSZiQSDz.js";n("/entrar");const d=a(async e=>{const t=o("token").value;if(e.path!=="/entrar"&&!t)return r(`/entrar?redirectTo=${e.path}`)});export{d as default};

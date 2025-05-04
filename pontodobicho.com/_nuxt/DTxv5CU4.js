@@ -1,0 +1,1 @@
+import{a as r,b as e}from"./DnYwuw7z.js";import{G as s}from"./a3x-3kU3.js";import"./DSZiQSDz.js";const p=s(a=>{if(r(e).isGreaterOrEqual("lg"))return{path:"/lista-de-sonhos",query:a.params}});export{p as default};

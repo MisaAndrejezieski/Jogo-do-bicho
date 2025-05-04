@@ -1,0 +1,560 @@
+Uri: https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js
+File Name: D:\Site copy\pontodobicho.com\sdks\web\v16\OneSignalSDK.page.js
+Content Type: application/javascript
+
+Uri: https://ponto-do-bicho.b-cdn.net/inicio/BANNER-DESK-grupo-vip-Ponto.webp
+File Name: D:\Site copy\pontodobicho.com\inicio\BANNER-DESK-grupo-vip-Ponto.webp
+Content Type: image/webp
+
+Uri: https://ponto-do-bicho.b-cdn.net/inicio/BANNER-DESK-novo-aqui-Ponto.webp
+File Name: D:\Site copy\pontodobicho.com\inicio\BANNER-DESK-novo-aqui-Ponto.webp
+Content Type: image/webp
+
+Uri: https://ponto-do-bicho.b-cdn.net/inicio/BANNER-MOB-grupo-vip-Ponto.webp
+File Name: D:\Site copy\pontodobicho.com\inicio\BANNER-MOB-grupo-vip-Ponto.webp
+Content Type: image/webp
+
+Uri: https://ponto-do-bicho.b-cdn.net/inicio/BANNER-MOB-novo-aqui-Ponto.webp
+File Name: D:\Site copy\pontodobicho.com\inicio\BANNER-MOB-novo-aqui-Ponto.webp
+Content Type: image/webp
+
+Uri: https://ponto-do-bicho.b-cdn.net/inicio/Grupo Vip Menor Mobile.webp
+File Name: D:\Site copy\pontodobicho.com\inicio\Grupo Vip Menor Mobile.webp
+Content Type: image/webp
+
+Uri: https://ponto-do-bicho.b-cdn.net/inicio/Grupo VIP Menor.webp
+File Name: D:\Site copy\pontodobicho.com\inicio\Grupo VIP Menor.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/
+File Name: D:\Site copy\pontodobicho.com\index.htm
+Content Type: text/html
+
+Uri: https://pontodobicho.com/apple-touch-icon.png
+File Name: D:\Site copy\pontodobicho.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://pontodobicho.com/banners/paginas/BG_cotaçao.webp
+File Name: D:\Site copy\pontodobicho.com\banners\paginas\BG_cotaçao.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/banners/paginas/BG_cotacao_mobile.webp
+File Name: D:\Site copy\pontodobicho.com\banners\paginas\BG_cotacao_mobile.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/banners/paginas/BG_jogo_do_bicho.webp
+File Name: D:\Site copy\pontodobicho.com\banners\paginas\BG_jogo_do_bicho.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/banners/paginas/BG_jogo_do_bicho_mobile.webp
+File Name: D:\Site copy\pontodobicho.com\banners\paginas\BG_jogo_do_bicho_mobile.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/banners/paginas/BG_resultados_desktop.webp
+File Name: D:\Site copy\pontodobicho.com\banners\paginas\BG_resultados_desktop.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/banners/paginas/BG_resultados_mobile.webp
+File Name: D:\Site copy\pontodobicho.com\banners\paginas\BG_resultados_mobile.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: D:\Site copy\pontodobicho.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://pontodobicho.com/cdn-cgi/images/cf-icon-browser.png
+File Name: D:\Site copy\pontodobicho.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://pontodobicho.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: D:\Site copy\pontodobicho.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://pontodobicho.com/cdn-cgi/images/cf-icon-error.png
+File Name: D:\Site copy\pontodobicho.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://pontodobicho.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: D:\Site copy\pontodobicho.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://pontodobicho.com/cdn-cgi/images/cf-icon-ok.png
+File Name: D:\Site copy\pontodobicho.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://pontodobicho.com/cdn-cgi/images/cf-icon-server.png
+File Name: D:\Site copy\pontodobicho.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://pontodobicho.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: D:\Site copy\pontodobicho.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://pontodobicho.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: D:\Site copy\pontodobicho.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://pontodobicho.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: D:\Site copy\pontodobicho.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://pontodobicho.com/cdn-cgi/l/email-protection
+File Name: D:\Site copy\pontodobicho.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://pontodobicho.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\Site copy\pontodobicho.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://pontodobicho.com/cdn-cgi/styles/cf.errors.css
+File Name: D:\Site copy\pontodobicho.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://pontodobicho.com/entrar
+File Name: D:\Site copy\pontodobicho.com\entrar.html
+Content Type: text/html
+
+Uri: https://pontodobicho.com/entrar?redirectTo=/carteira
+File Name: D:\Site copy\pontodobicho.com\entrar-3.html
+Content Type: text/html
+
+Uri: https://pontodobicho.com/entrar?redirectTo=/carteira/deposito
+File Name: D:\Site copy\pontodobicho.com\entrar-2.html
+Content Type: text/html
+
+Uri: https://pontodobicho.com/entrar?redirectTo=/jogo-do-bicho/apostas
+File Name: D:\Site copy\pontodobicho.com\entrar-1.html
+Content Type: text/html
+
+Uri: https://pontodobicho.com/esqueci-minha-senha
+File Name: D:\Site copy\pontodobicho.com\esqueci-minha-senha.html
+Content Type: text/html
+
+Uri: https://pontodobicho.com/favicon-16x16.png
+File Name: D:\Site copy\pontodobicho.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://pontodobicho.com/favicon-32x32.png
+File Name: D:\Site copy\pontodobicho.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://pontodobicho.com/invite-and-win-image.webp
+File Name: D:\Site copy\pontodobicho.com\invite-and-win-image.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/jogo-do-bicho
+File Name: D:\Site copy\pontodobicho.com\jogo-do-bicho.html
+Content Type: text/html
+
+Uri: https://pontodobicho.com/jogo-do-bicho/cotacao
+File Name: D:\Site copy\pontodobicho.com\jogo-do-bicho\cotacao.html
+Content Type: text/html
+
+Uri: https://pontodobicho.com/jogo-do-bicho/resultados
+File Name: D:\Site copy\pontodobicho.com\jogo-do-bicho\resultados.html
+Content Type: text/html
+
+Uri: https://pontodobicho.com/politica-de-privacidade
+File Name: D:\Site copy\pontodobicho.com\politica-de-privacidade.html
+Content Type: text/html
+
+Uri: https://pontodobicho.com/registrar
+File Name: D:\Site copy\pontodobicho.com\registrar.html
+Content Type: text/html
+
+Uri: https://pontodobicho.com/site.webmanifest
+File Name: D:\Site copy\pontodobicho.com\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://pontodobicho.com/suporte
+File Name: D:\Site copy\pontodobicho.com\suporte.html
+Content Type: text/html
+
+Uri: https://pontodobicho.com/termos-de-uso
+File Name: D:\Site copy\pontodobicho.com\termos-de-uso.html
+Content Type: text/html
+
+Uri: https://pontodobicho.com/_fonts/xMQbuFFYT72XzQspDqW1KX7wmA-e3IvV1C7QG.woff2
+File Name: D:\Site copy\pontodobicho.com\_fonts\xMQbuFFYT72XzQspDqW1KX7wmA-e3IvV1C7QG.woff2
+Content Type: font/woff2
+
+Uri: https://pontodobicho.com/_fonts/xMQbuFFYT72XzQUpDqW1KX4-OT04E3g1eO.woff2
+File Name: D:\Site copy\pontodobicho.com\_fonts\xMQbuFFYT72XzQUpDqW1KX4-OT04E3g1eO.woff2
+Content Type: font/woff2
+
+Uri: https://pontodobicho.com/_fonts/xMQOuFFYT72X5wkB_18qmnndmScMnn-J-UkRXPpeX5Z.woff
+File Name: D:\Site copy\pontodobicho.com\_fonts\xMQOuFFYT72X5wkB_18qmnndmScMnn-J-UkRXPpeX5Z.woff
+Content Type: font/woff
+
+Uri: https://pontodobicho.com/_fonts/xMQOuFFYT72X5wkB_18qmnndmSdgnn-J-qQNJWtlimK.woff
+File Name: D:\Site copy\pontodobicho.com\_fonts\xMQOuFFYT72X5wkB_18qmnndmSdgnn-J-qQNJWtlimK.woff
+Content Type: font/woff
+
+Uri: https://pontodobicho.com/_fonts/xMQOuFFYT72X5wkB_18qmnndmSdSn3-J-VVZyvR75OF.woff
+File Name: D:\Site copy\pontodobicho.com\_fonts\xMQOuFFYT72X5wkB_18qmnndmSdSn3-J-VVZyvR75OF.woff
+Content Type: font/woff
+
+Uri: https://pontodobicho.com/_fonts/xMQOuFFYT72X5wkB_18qmnndmSdSnn-J-Vq1ibuGSdi.woff
+File Name: D:\Site copy\pontodobicho.com\_fonts\xMQOuFFYT72X5wkB_18qmnndmSdSnn-J-Vq1ibuGSdi.woff
+Content Type: font/woff
+
+Uri: https://pontodobicho.com/_fonts/xMQOuFFYT72X5wkB_18qmnndmSe1mX-J-OXLkaGTF3l.woff
+File Name: D:\Site copy\pontodobicho.com\_fonts\xMQOuFFYT72X5wkB_18qmnndmSe1mX-J-OXLkaGTF3l.woff
+Content Type: font/woff
+
+Uri: https://pontodobicho.com/_fonts/xMQOuFFYT72X5wkB_18qmnndmSeMmX-J-ElzcakGifz.woff
+File Name: D:\Site copy\pontodobicho.com\_fonts\xMQOuFFYT72X5wkB_18qmnndmSeMmX-J-ElzcakGifz.woff
+Content Type: font/woff
+
+Uri: https://pontodobicho.com/_fonts/xMQOuFFYT72X5wkB_18qmnndmSfSmX-J-Ap03BkHrSE.woff
+File Name: D:\Site copy\pontodobicho.com\_fonts\xMQOuFFYT72X5wkB_18qmnndmSfSmX-J-Ap03BkHrSE.woff
+Content Type: font/woff
+
+Uri: https://pontodobicho.com/_fonts/xMQOuFFYT72X5wkB_18qmnndmSfSnn-J-Q3TMYXDBJY.woff
+File Name: D:\Site copy\pontodobicho.com\_fonts\xMQOuFFYT72X5wkB_18qmnndmSfSnn-J-Q3TMYXDBJY.woff
+Content Type: font/woff
+
+Uri: https://pontodobicho.com/_ipx/s_100x100/logo-pix.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_100x100\logo-pix.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_ipx/s_192x192/stories/aposte-agora.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_192x192\stories\aposte-agora.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_ipx/s_192x192/stories/aposte-com-segurança.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_192x192\stories\aposte-com-segurança.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_ipx/s_192x192/stories/eles-apostam-e-faturam.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_192x192\stories\eles-apostam-e-faturam.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_ipx/s_192x192/stories/fezinha-hoje.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_192x192\stories\fezinha-hoje.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_ipx/s_200x200/logo-pix.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_200x200\logo-pix.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_ipx/s_200x40/logo_branca.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_200x40\logo_branca.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_ipx/s_361x70/logo_escura.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_361x70\logo_escura.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_ipx/s_400x80/logo_branca.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_400x80\logo_branca.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_ipx/s_722x140/logo_escura.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_722x140\logo_escura.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_ipx/s_96x96/stories/aposte-agora.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_96x96\stories\aposte-agora.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_ipx/s_96x96/stories/aposte-com-segurança.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_96x96\stories\aposte-com-segurança.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_ipx/s_96x96/stories/eles-apostam-e-faturam.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_96x96\stories\eles-apostam-e-faturam.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_ipx/s_96x96/stories/fezinha-hoje.webp
+File Name: D:\Site copy\pontodobicho.com\_ipx\s_96x96\stories\fezinha-hoje.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_nuxt/1SZqF1Nt.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\1SZqF1Nt.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/A1Kx0V6A.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\A1Kx0V6A.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/a3x-3kU3.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\a3x-3kU3.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/ae_FkGM8.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\ae_FkGM8.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/ak-6Sr7X.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\ak-6Sr7X.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/AnimalCard.BW47GPgu.css
+File Name: D:\Site copy\pontodobicho.com\_nuxt\AnimalCard.BW47GPgu.css
+Content Type: text/css
+
+Uri: https://pontodobicho.com/_nuxt/B-SIl16A.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\B-SIl16A.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/B-ZkRZSR.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\B-ZkRZSR.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/BCvXEaqd.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\BCvXEaqd.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/Bd2QKyF9.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\Bd2QKyF9.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/Bh42oqGe.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\Bh42oqGe.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/BId2YHVf.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\BId2YHVf.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/BiiMTg6l.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\BiiMTg6l.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/BKRArTea.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\BKRArTea.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/BmUQmrkO.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\BmUQmrkO.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/BPM4R_90.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\BPM4R_90.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/BRIGW63G.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\BRIGW63G.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/BR_EgKw-.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\BR_EgKw-.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/builds/meta/459fe803-7cb7-472e-b112-2233392cafb7.json
+File Name: D:\Site copy\pontodobicho.com\_nuxt\builds\meta\459fe803-7cb7-472e-b112-2233392cafb7.json
+Content Type: application/json
+
+Uri: https://pontodobicho.com/_nuxt/BxZJWESW.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\BxZJWESW.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/BzALxwod.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\BzALxwod.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/C6OpY4wG.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\C6OpY4wG.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/CCozxO8i.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\CCozxO8i.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/Cd6k-rI7.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\Cd6k-rI7.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/CgIjpNQF.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\CgIjpNQF.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/CHg9LD-V.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\CHg9LD-V.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/ChX57SDe.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\ChX57SDe.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/CIOLOO3y.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\CIOLOO3y.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/CmqeUVdb.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\CmqeUVdb.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/cotacao.v_6J3OkP.css
+File Name: D:\Site copy\pontodobicho.com\_nuxt\cotacao.v_6J3OkP.css
+Content Type: text/css
+
+Uri: https://pontodobicho.com/_nuxt/CsT8lAmw.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\CsT8lAmw.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/CSysSGPk.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\CSysSGPk.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/CtCjIXKm.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\CtCjIXKm.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/CuBATazA.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\CuBATazA.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/CyHGR-8K.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\CyHGR-8K.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/CY_NqDWU.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\CY_NqDWU.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/DaYL4gH5.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\DaYL4gH5.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/DC5tw3Oi.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\DC5tw3Oi.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/default.DbhWmUC3.css
+File Name: D:\Site copy\pontodobicho.com\_nuxt\default.DbhWmUC3.css
+Content Type: text/css
+
+Uri: https://pontodobicho.com/_nuxt/DfDE1rFP.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\DfDE1rFP.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/DHDsuqR1.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\DHDsuqR1.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/DMiOHh31.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\DMiOHh31.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/DnYwuw7z.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\DnYwuw7z.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/DoOsWbsk.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\DoOsWbsk.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/DroCuHE6.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\DroCuHE6.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/DSZiQSDz.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\DSZiQSDz.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/DTxv5CU4.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\DTxv5CU4.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/entry.CuVTl20E.css
+File Name: D:\Site copy\pontodobicho.com\_nuxt\entry.CuVTl20E.css
+Content Type: text/css
+
+Uri: https://pontodobicho.com/_nuxt/F2R7qFDd.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\F2R7qFDd.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/fKaclN-_.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\fKaclN-_.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/gL7-F3v6.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\gL7-F3v6.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/gxLnxU6K.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\gxLnxU6K.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/index.9Mz9ZBvI.css
+File Name: D:\Site copy\pontodobicho.com\_nuxt\index.9Mz9ZBvI.css
+Content Type: text/css
+
+Uri: https://pontodobicho.com/_nuxt/index.DvKVyi08.css
+File Name: D:\Site copy\pontodobicho.com\_nuxt\index.DvKVyi08.css
+Content Type: text/css
+
+Uri: https://pontodobicho.com/_nuxt/K8qTsRqF.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\K8qTsRqF.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/m-2vVfmw.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\m-2vVfmw.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/moYwb3dK.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\moYwb3dK.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/O0eLau2T.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\O0eLau2T.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/O91Ry2GH.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\O91Ry2GH.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/OYiExnqA.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\OYiExnqA.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/stamp.Cf_vXUL_.webp
+File Name: D:\Site copy\pontodobicho.com\_nuxt\stamp.Cf_vXUL_.webp
+Content Type: image/webp
+
+Uri: https://pontodobicho.com/_nuxt/swiper-pagination.CWXTi6Zo.css
+File Name: D:\Site copy\pontodobicho.com\_nuxt\swiper-pagination.CWXTi6Zo.css
+Content Type: text/css
+
+Uri: https://pontodobicho.com/_nuxt/swiper-vue.DCASaf05.css
+File Name: D:\Site copy\pontodobicho.com\_nuxt\swiper-vue.DCASaf05.css
+Content Type: text/css
+
+Uri: https://pontodobicho.com/_nuxt/Table.DGM5P1Fz.css
+File Name: D:\Site copy\pontodobicho.com\_nuxt\Table.DGM5P1Fz.css
+Content Type: text/css
+
+Uri: https://pontodobicho.com/_nuxt/TWlqzfxS.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\TWlqzfxS.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/v88PbwPr.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\v88PbwPr.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/XT0KdB-j.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\XT0KdB-j.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/x_rD_Ya3.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\x_rD_Ya3.js
+Content Type: text/javascript
+
+Uri: https://pontodobicho.com/_nuxt/zsan4xwN.js
+File Name: D:\Site copy\pontodobicho.com\_nuxt\zsan4xwN.js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: D:\Site copy\pontodobicho.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?render=6Ld0cbUqAAAAAD--DmSNV-EzPBbV1AVYYJ-9pn5f
+File Name: D:\Site copy\pontodobicho.com\recaptcha\api-1.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-P8C4RJ0F48
+File Name: D:\Site copy\pontodobicho.com\gtag\js
+Content Type: application/javascript
+
